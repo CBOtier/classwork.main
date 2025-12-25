@@ -2,7 +2,7 @@ Metadata-Version: 2.4
 Name: calculator-pkg-nmdbls
 Version: 0.1.0
 Summary: Простой калькулятор на Python
-Home-page: 
+Home-page: https://github.com/CBOtier/classwork.main/tree/main/Classworks-main
 Author: Egor
 Author-email: yegor.gryaznov@inbox.requires
 Classifier: Programming Language :: Python :: 3
